@@ -9,4 +9,4 @@ game: Kingdom Hearts Birth by Sleep
 > **Publisher:** [[Square Enix]]
 > **Release Date:** 13th June 2024
 ## Map of Content
-- [[Gaming Journal/Kingdom Hearts Birth by Sleep/Achievements|Achievements]]
+- [[Gaming Journal/KINGDOM HEARTS -HD 1.5 + 2.5 ReMIX-/Achievements|Achievements]]

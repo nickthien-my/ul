@@ -81,9 +81,9 @@ game: Monster Hunter Rise
 | **Antique Bookmark**             | Awarded for finding many Old Messages. Adorned with a tasteful pattern.                                                     |
 | **Deft-hand Rod**                | Awarded for catching many fish. Feels familiar in your hands. One cast, one catch!                                          |
 | **Well-done Grillmeister**       | Awarded for cooking a well-done steak 30 times. Good job, and well done!                                                    |
-| **Copper Ecologist's Award**     | Awarded for photographing many [[Gaming Journal/Monster Hunter Rise/Checklists#Hunting Helpers\|Hunting Helpers]]. Proof you've expanded your hunter horizons. |
-| **Silver Ecologist's Award**     | Awarded by one enthusiastic researcher for photographing many [[Gaming Journal/Monster Hunter Rise/Checklists#Rare Creatures\|Rare Creatures]].                |
-| **Gold Ecologist's Award**       | Awarded for photographing many [[Gaming Journal/Monster Hunter Rise/Checklists#Endemic Life\|Endemic Lifeforms]]. Now you're a Guild-recognized researcher!    |
+| **Copper Ecologist's Award**     | Awarded for photographing many [[Gaming Journal/MONSTER HUNTER RISE/Checklists#Hunting Helpers\|Hunting Helpers]]. Proof you've expanded your hunter horizons. |
+| **Silver Ecologist's Award**     | Awarded by one enthusiastic researcher for photographing many [[Gaming Journal/MONSTER HUNTER RISE/Checklists#Rare Creatures\|Rare Creatures]].                |
+| **Gold Ecologist's Award**       | Awarded for photographing many [[Gaming Journal/MONSTER HUNTER RISE/Checklists#Endemic Life\|Endemic Lifeforms]]. Now you're a Guild-recognized researcher!    |
 | **Extravagant Cashbox**          | Awarded for earning 1,000,000 zenny. Heavy with impressively intricate goldwork.                                            |
 | **Well-worn Cashbox**            | Awarded for accumulating 100,000 Kamura Points. Gleams with polish despite great use.                                       |
 | **Thank-mew Letter**             | Awarded for hiring 50 Buddies. We a-purr-eciate your fur-iendly patronage!                                                  |

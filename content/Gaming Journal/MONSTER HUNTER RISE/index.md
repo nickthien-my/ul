@@ -9,9 +9,9 @@ game: Monster Hunter Rise
 > **Publisher:** [[Capcom]]
 > **Release Date:** 13th January 2022
 ## Map of Content
-- [[Gaming Journal/Monster Hunter Rise/Achievements (Monster Hunter Rise)|Achievements (Monster Hunter Rise)]]
-- [[Gaming Journal/Monster Hunter Rise/Monster Hunter Rise - Weapon Builds|Weapon Builds]]
-- [[Gaming Journal/Monster Hunter Rise/Checklists]]
+- [[Achievements (Monster Hunter Rise)|Achievements (Monster Hunter Rise)]]
+- [[Monster Hunter Rise - Weapon Builds|Weapon Builds]]
+- [[Gaming Journal/MONSTER HUNTER RISE/Checklists]]
 
 ## Progress
 > ![[Monster Hunter Rise - Achievements - Good Luck Charm.jpg|75]] ![[Monster Hunter Rise - Achievements - Palamute Gear Tune-up Kit.jpg|75]] ![[Monster Hunter Rise - Achievements - Tempestuous Triumph Scroll.jpg|75]]
