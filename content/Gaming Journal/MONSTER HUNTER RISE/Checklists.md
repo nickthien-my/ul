@@ -56,6 +56,8 @@ game: Monster Hunter Rise
 - [ ] ???
 - [ ] ???
 
+## Fishing
+- [ ] 
 ## Large Monsters (Monster Hunter Rise)
 ### Great Izuchi
 - [ ] Large Crown

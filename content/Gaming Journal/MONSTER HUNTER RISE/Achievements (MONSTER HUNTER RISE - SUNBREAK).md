@@ -1,6 +1,8 @@
 ---
-title: "Achievements (Monster Hunter Rise: Sunbreak)"
-game: "Monster Hunter Rise: Sunbreak"
+title: "Achievements (MONSTER HUNTER RISE: SUNBREAK)"
+game: "MONSTER HUNTER RISE: SUNBREAK"
+tags:
+  - Achievements
 ---
 ## Achievements
 - [x] Royal Request for Cooperation

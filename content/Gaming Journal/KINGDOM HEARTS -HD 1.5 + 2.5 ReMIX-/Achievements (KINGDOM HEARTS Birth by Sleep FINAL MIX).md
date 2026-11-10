@@ -1,5 +1,7 @@
 ---
-game: Kingdom Hearts Birth by Sleep
+game: KINGDOM HEARTS Birth by Sleep FINAL MIX
+tags:
+  - Achievements
 ---
 ## Achievements
 - [ ] Critical Competitor

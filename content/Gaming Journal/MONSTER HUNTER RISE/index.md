@@ -1,17 +1,18 @@
 ---
 title: Monster Hunter Rise
-game: Monster Hunter Rise
 ---
-![[Monster Hunter Rise - header.jpg]]
+![[MONSTER HUNTER RISE.jpg]]
 
 > [!info]+ Game Info
 > **Developer:** [[Capcom]]
 > **Publisher:** [[Capcom]]
 > **Release Date:** 13th January 2022
 ## Map of Content
-- [[Achievements (Monster Hunter Rise)|Achievements (Monster Hunter Rise)]]
-- [[Monster Hunter Rise - Weapon Builds|Weapon Builds]]
-- [[Gaming Journal/MONSTER HUNTER RISE/Checklists]]
+- [[Achievements (MONSTER HUNTER RISE)|Achievements (MONSTER HUNTER RISE)]]
+- [[Achievements (MONSTER HUNTER RISE - SUNBREAK)|Achievements (MONSTER HUNTER RISE: SUNBREAK)]]
+- [[Gaming Journal/MONSTER HUNTER RISE/Checklists|Checklists]]
+- [[Weapon Builds|Weapon Builds]]
+
 
 ## Progress
 > ![[Monster Hunter Rise - Achievements - Good Luck Charm.jpg|75]] ![[Monster Hunter Rise - Achievements - Palamute Gear Tune-up Kit.jpg|75]] ![[Monster Hunter Rise - Achievements - Tempestuous Triumph Scroll.jpg|75]]

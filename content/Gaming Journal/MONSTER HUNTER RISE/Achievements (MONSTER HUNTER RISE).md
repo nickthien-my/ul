@@ -1,5 +1,8 @@
 ---
-game: Monster Hunter Rise
+title: Achievements (MONSTER HUNTER RISE)
+game: MONSTER HUNTER RISE
+tags:
+  - Achievements
 ---
 ## Achievements
 - [x] Kamura Amulet
