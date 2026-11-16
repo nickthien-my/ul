@@ -51,10 +51,10 @@ game: Monster Hunter Rise
 - [x] Fortune Owl
 - [x] Felicicrow
 - [x] Snow-faced Fox
-- [ ] Monksnail
-- [ ] Quetzalcobra
-- [ ] Regitrice
-- [ ] Hellbill
+- [x] Monksnail
+- [x] Quetzalcobra
+- [x] Regitrice
+- [x] Hellbill
 ## Large Monsters (Monster Hunter Rise)
 ### Great Izuchi
 - [ ] Large Crown
@@ -100,6 +100,14 @@ game: Monster Hunter Rise
 - [ ] Large Crown
 - [x] Mini Crown
 - [ ] Scroll
+### Khezu
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Tetranodon
+- [ ] Large Crown
+- [ ] Mini Crown
+- [x] Scroll
 ### Bishaten
 - [ ] Large Crown
 - [x] Mini Crown
@@ -108,27 +116,19 @@ game: Monster Hunter Rise
 - [ ] Large Crown
 - [x] Mini Crown
 - [ ] Scroll
-### Basarios
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
-### Khezu
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
 ### Pukei-Pukei
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Somnacanth
+### Jyuratodos
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Tetranodon
+### Basarios
 - [ ] Large Crown
 - [ ] Mini Crown
-- [x] Scroll
-### Jyuratodos
+- [ ] Scroll
+### Somnacanth
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
@@ -140,34 +140,42 @@ game: Monster Hunter Rise
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Anjanath
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
-### Goss Harag
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
 ### Tobi-Kadachi
 - [ ] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
-### Nargacuga
-- [x] Large Crown
-- [x] Mini Crown
 - [x] Scroll
-### Rathalos
-- [x] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
 ### Magnamalo
 - [ ] Large Crown
+- [x] Mini Crown
+- [x] Scroll
+### Anjanath
+- [ ] Large Crown
+- [ ] Mini Crown
+- [x] Scroll
+### Nargacuga
+- [x] Large Crown
 - [x] Mini Crown
 - [x] Scroll
 ### Mizutsune
 - [x] Large Crown
 - [ ] Mini Crown
 - [x] Scroll
+### Goss Harag
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Garangolm
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Shogun Ceanataur
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Rathalos
+- [x] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
 ### Almudron
 - [ ] Large Crown
 - [ ] Mini Crown
@@ -176,27 +184,15 @@ game: Monster Hunter Rise
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Rakna Kadaki
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
-### Teostra
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
 ### Tigrex
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Kushala Daora
+### Diablos
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Rajang
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
-### Daiblos
+### Rakna-Kadaki
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
@@ -204,7 +200,35 @@ game: Monster Hunter Rise
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
+### Rajang
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
 ### Bazelgeuse
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Teostra
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Kushala Daora
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Wind Serpent Ibushi
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Thunder Serpent Narwa
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Apex Arzuros
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Kushala Daora
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll

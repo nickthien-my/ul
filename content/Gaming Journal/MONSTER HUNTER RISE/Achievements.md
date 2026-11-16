@@ -1,5 +1,4 @@
 ---
-title: MONSTER HUNTER RISE Achievements
 game: MONSTER HUNTER RISE
 tags:
   - Achievements

@@ -1,5 +1,4 @@
 ---
-title: Weapon Builds
 game: Monster Hunter Rise
 ---
 ### Hunting Horn
