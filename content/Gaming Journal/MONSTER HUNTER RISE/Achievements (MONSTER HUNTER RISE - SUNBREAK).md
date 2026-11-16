@@ -6,8 +6,8 @@ tags:
 ---
 ## Achievements
 - [x] Royal Request for Cooperation
-- [ ] Long-Distance Binoculars
-- [ ] Survey Cape
+- [x] Long-Distance Binoculars
+- [x] Survey Cape
 - [ ] Azure Feather Fountain Pen
 - [ ] Majestic Desk Banner
 - [ ] Royal Declaration of Gratitude
@@ -29,14 +29,14 @@ tags:
 - [ ] Great Helmet
 - [ ] Gorgeous Helm
 - [ ] Solid Padlock
-- [ ] Secret Honey Jar
+- [x] Secret Honey Jar
 - [ ] Napping Felyne and Canyne
-- [ ] Sojourn Necklace
+- [x] Sojourn Necklace
 - [ ] Buddy Whistle
 - [ ] Flaky Canyne Pie
 - [ ] Polychrome Acorn
 - [ ] Windbreaker Scarf
-- [ ] Jewelgrass Planter
+- [x] Jewelgrass Planter
 - [ ] Unbreakable Bag
 - [ ] Comfortable Sandals
 - [ ] Hunter's Bronze Shield

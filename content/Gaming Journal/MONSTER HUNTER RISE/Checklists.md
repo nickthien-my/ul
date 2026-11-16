@@ -47,17 +47,14 @@ game: Monster Hunter Rise
 - [x] Golden Spiribug
 - [x] Gilded Spiribug
 ### Rare Creatures
-- [ ] Scale Lizard
+- [x] Scale Lizard
 - [x] Fortune Owl
 - [x] Felicicrow
-- [ ] ???
-- [ ] ???
-- [ ] ???
-- [ ] ???
-- [ ] ???
-
-## Fishing
-- [ ] 
+- [x] Snow-faced Fox
+- [ ] Monksnail
+- [ ] Quetzalcobra
+- [ ] Regitrice
+- [ ] Hellbill
 ## Large Monsters (Monster Hunter Rise)
 ### Great Izuchi
 - [ ] Large Crown
@@ -69,8 +66,8 @@ game: Monster Hunter Rise
 - [x] Scroll
 ### Kulu-Ya-Ku
 - [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
+- [x] Mini Crown
+- [x] Scroll
 ### Great Wroggi
 - [x] Large Crown
 - [ ] Mini Crown
@@ -82,24 +79,32 @@ game: Monster Hunter Rise
 ### Lagombi
 - [ ] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Volvidon
 - [ ] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Aknosom
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
+- [x] Large Crown
+- [x] Mini Crown
+- [x] Scroll
 ### Royal Ludroth
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
 ### Barroth
-- [ ] Large Crown
+- [x] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
+### Daimyo Hermitaur
+- [ ] Large Crown
+- [x] Mini Crown
+- [ ] Scroll
 ### Bishaten
+- [ ] Large Crown
+- [x] Mini Crown
+- [ ] Scroll
+### Blood Orange Bishaten
 - [ ] Large Crown
 - [x] Mini Crown
 - [ ] Scroll
@@ -122,15 +127,15 @@ game: Monster Hunter Rise
 ### Tetranodon
 - [ ] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Jyuratodos
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
 ### Rathian
-- [ ] Large Crown
+- [x] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Barioth
 - [ ] Large Crown
 - [ ] Mini Crown
@@ -158,11 +163,11 @@ game: Monster Hunter Rise
 ### Magnamalo
 - [ ] Large Crown
 - [x] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Mizutsune
 - [x] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Almudron
 - [ ] Large Crown
 - [ ] Mini Crown

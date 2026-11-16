@@ -35,11 +35,11 @@ tags:
 - [ ] Thank-mew Letter
 - [x] Good Luck Charm
 - [x] Palamute Gear Tune-up Kit
-- [ ] Luxury Armor Stand
+- [x] Luxury Armor Stand
 - [ ] Master's Black Belt
-- [ ] Chef's Trusty Tools
+- [x] Chef's Trusty Tools
 - [x] Cohoots' Dresser
-- [ ] Runner's Sandals
+- [x] Runner's Sandals
 - [ ] Dreadnought Destroyer Plaque
 - [x] Five-in-One Plaque
 - [x] Seasoned Jockey Plaque
