@@ -3,7 +3,7 @@ game: KINGDOM HEARTS Birth by Sleep FINAL MIX
 tags:
   - Achievements
 ---
-## Achievements
+## Achievements (KINGDOM HEARTS Birth by Sleep FINAL MIX)
 - [ ] Critical Competitor
 - [ ] The Lost Chapter
 - [ ] The Vessel
@@ -49,7 +49,8 @@ tags:
 - [ ] King of the Arena
 - [ ] Keepers of the Arena
 - [ ] Villains' Vendetta
-## Requirements
+## Requirements (KINGDOM HEARTS Birth by Sleep FINAL MIX)
+
 | Name                        | Description                                                            |
 | :-------------------------- | ---------------------------------------------------------------------- |
 | **Critical Competitor**     | Clear game on Critical.                                                |

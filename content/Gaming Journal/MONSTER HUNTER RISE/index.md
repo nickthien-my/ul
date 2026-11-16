@@ -8,14 +8,12 @@ title: Monster Hunter Rise
 > **Publisher:** [[Capcom]]
 > **Release Date:** 13th January 2022
 ## Map of Content
-- [[Achievements (MONSTER HUNTER RISE)|Achievements (MONSTER HUNTER RISE)]]
-- [[Achievements (MONSTER HUNTER RISE - SUNBREAK)|Achievements (MONSTER HUNTER RISE: SUNBREAK)]]
+- [[Gaming Journal/MONSTER HUNTER RISE/Achievements|Achievements]]
 - [[Gaming Journal/MONSTER HUNTER RISE/Checklists|Checklists]]
 - [[Weapon Builds|Weapon Builds]]
 
-
 ## Progress
-> ![[Monster Hunter Rise - Achievements - Good Luck Charm.jpg|75]] ![[Monster Hunter Rise - Achievements - Palamute Gear Tune-up Kit.jpg|75]] ![[Monster Hunter Rise - Achievements - Tempestuous Triumph Scroll.jpg|75]]
+![[KamuraPinwheel.jpg|75]] ![[ColorfulArmorStand.jpg|75]] ![[SilverEcologist'sAward.jpg|75]] ![[GoldEcologist'sAward.jpg|75]] ![[Thank-mewLetter.jpg|75]] ![[Deft-handRod.jpg|75]] ![[JewelgrassPlanter.jpg|75]] ![[Runner'sSandals.jpg|75]] ![[SurveyCape.jpg|75]] ![[LuxuryArmorStand.jpg|75]] ![[Long-DistanceBinoculars.jpg|75]] ![[SecretHoneyJar.jpg|75]] ![[SojournNecklace.jpg|75]] ![[Chef'sTrustyTools.jpg|75]] ![[RoyalRequestforCooperation.jpg|75]] ![[CalamityConquerorScroll.jpg|75]] ![[Well-doneGrillmeister.jpg|75]] ![[GoodLuckCharm.jpg|75]] ![[PalamuteGearTune-UpKit.jpg|75]] ![[TempestuousTriumphScroll.jpg|75]] ![[AspiringHunterCertificate.jpg|75]] ![[CopperEcologist'sAward.jpg|75]] ![[GreatWirebugPlate.jpg|75]] ![[Well-wornCashbox.jpg|75]] ![[SeasonedJockeyPlaque.jpg|75]] ![[Beat-upConstructionKit.jpg|75]] ![[ExtravagantCashbox.jpg|75]] ![[WreathofHonor.jpg|75]] ![[Five-in-OnePlaque.jpg|75]] ![[ApexShortsword.jpg|75]] ![[Cohoots'Dresser.jpg|75]] ![[AncestralBlade.jpg|75]] ![[KamuraAmulet.jpg|75]]
 ## Journal
 ### 30th October, 2026
 
