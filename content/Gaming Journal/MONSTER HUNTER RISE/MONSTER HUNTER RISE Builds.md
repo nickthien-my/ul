@@ -1,5 +1,10 @@
 ---
-game: Monster Hunter Rise
+tags:
+  - MonsterHunter
+  - MonsterHunterRise
+  - MonsterHunterRiseSunbreak
+  - Capcom
+  - builds
 ---
 ### Hunting Horn
 #### HR7

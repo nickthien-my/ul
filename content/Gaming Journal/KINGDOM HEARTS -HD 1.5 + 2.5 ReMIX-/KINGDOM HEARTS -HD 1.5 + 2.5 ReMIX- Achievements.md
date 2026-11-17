@@ -1,6 +1,9 @@
 ---
 tags:
-  - Achievements
+  - KingdomHearts
+  - KingdomHeartsBirthbySleepFINALMIX
+  - SquareEnix
+  - achievements
 ---
 ## Achievements (KINGDOM HEARTS Birth by Sleep FINAL MIX)
 - [ ] Critical Competitor

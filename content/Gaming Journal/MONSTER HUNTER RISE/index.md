@@ -9,9 +9,9 @@ title: Monster Hunter Rise
 > **Release Date:** 13th January 2022
 
 ## Map of Content
-- [[Gaming Journal/MONSTER HUNTER RISE/Achievements|Achievements]]
-- [[Gaming Journal/MONSTER HUNTER RISE/Checklists|Checklists]]
-- [[Weapon Builds|Weapon Builds]]
+- [[MONSTER HUNTER RISE Achievements|MONSTER HUNTER RISE Achievements]]
+- [[MONSTER HUNTER RISE Checklists|MONSTER HUNTER RISE Checklists]]
+- [[MONSTER HUNTER RISE Builds|Weapon Builds]]
 
 ## Activity
 ### November 17th, 2026
