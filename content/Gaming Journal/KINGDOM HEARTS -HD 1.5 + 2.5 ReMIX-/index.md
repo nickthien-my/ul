@@ -8,4 +8,4 @@ title: KINGDOM HEARTS -HD 1.5 + 2.5 ReMIX-
 > **Publisher:** [[Square Enix]]
 > **Release Date:** 13th June 2024
 ## Map of Content
-- [[Achievements (KINGDOM HEARTS Birth by Sleep FINAL MIX)|Achievements (KINGDOM HEARTS Birth by Sleep FINAL MIX)]]
+- [[content/Gaming Journal/KINGDOM HEARTS -HD 1.5 + 2.5 ReMIX-/Achievements|Achievements (KINGDOM HEARTS Birth by Sleep FINAL MIX)]]

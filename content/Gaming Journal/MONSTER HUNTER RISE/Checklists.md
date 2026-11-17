@@ -91,7 +91,7 @@ game: Monster Hunter Rise
 ### Royal Ludroth
 - [ ] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Barroth
 - [x] Large Crown
 - [ ] Mini Crown
@@ -183,7 +183,7 @@ game: Monster Hunter Rise
 ### Zinogre
 - [ ] Large Crown
 - [ ] Mini Crown
-- [ ] Scroll
+- [x] Scroll
 ### Tigrex
 - [ ] Large Crown
 - [ ] Mini Crown

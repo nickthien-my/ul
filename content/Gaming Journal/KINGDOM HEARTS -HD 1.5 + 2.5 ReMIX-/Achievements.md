@@ -1,5 +1,4 @@
 ---
-game: KINGDOM HEARTS Birth by Sleep FINAL MIX
 tags:
   - Achievements
 ---

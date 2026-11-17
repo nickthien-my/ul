@@ -11,7 +11,7 @@ tags:
 - [x] Calamity Conqueror Scroll
 - [x] Aspiring Hunter Certificate
 - [ ] Rampage Nemesis Certificate
-- [ ] Spiritwood Necklace
+- [x] Spiritwood Necklace
 - [ ] Frozen Lampsquid Earring
 - [ ] Prismatic Chalice
 - [ ] Silver Cactus Ring
@@ -43,7 +43,7 @@ tags:
 - [x] Five-in-One Plaque
 - [x] Seasoned Jockey Plaque
 - [ ] Fan of Ascendancy
-- [ ] Arena Fighter Certificate
+- [x] Arena Fighter Certificate
 - [ ] From Palicoes, with Love
 - [x] Colorful Armor Stand
 - [ ] Petalace Arrangement Vase
@@ -137,7 +137,7 @@ tags:
 - [ ] Napping Felyne and Canyne
 - [x] Sojourn Necklace
 - [ ] Buddy Whistle
-- [ ] Flaky Canyne Pie
+- [x] Flaky Canyne Pie
 - [ ] Polychrome Acorn
 - [ ] Windbreaker Scarf
 - [x] Jewelgrass Planter
