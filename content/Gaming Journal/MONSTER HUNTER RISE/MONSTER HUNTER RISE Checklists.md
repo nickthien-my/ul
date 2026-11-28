@@ -201,7 +201,15 @@ tags:
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
+### Kushala Daora
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
 ### Chameleos
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Teostra
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
@@ -213,14 +221,6 @@ tags:
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Teostra
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
-### Kushala Daora
-- [ ] Large Crown
-- [ ] Mini Crown
-- [ ] Scroll
 ### Wind Serpent Ibushi
 - [ ] Large Crown
 - [ ] Mini Crown
@@ -229,11 +229,11 @@ tags:
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Apex Arzuros
+### Narwa the Allmother
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll
-### Kushala Daora
+### Apex Arzuros
 - [ ] Large Crown
 - [ ] Mini Crown
 - [ ] Scroll

@@ -6,16 +6,18 @@ title: Monster Hunter Rise
 > [!info]+ Game Info
 > **Developer:** [[Capcom]]
 > **Publisher:** [[Capcom]]
-> **Release Date:** 13th January 2022
+> **Release Date:** January 13th, 2022
 
 ## Map of Content
-- [[MONSTER HUNTER RISE Achievements|MONSTER HUNTER RISE Achievements]]
-- [[MONSTER HUNTER RISE Checklists|MONSTER HUNTER RISE Checklists]]
-- [[MONSTER HUNTER RISE Builds|Weapon Builds]]
+- [[Gaming Journal/MONSTER HUNTER RISE/MONSTER HUNTER RISE Achievements|MONSTER HUNTER RISE Achievements]]
+- [[Gaming Journal/MONSTER HUNTER RISE/MONSTER HUNTER RISE Checklists|MONSTER HUNTER RISE Checklists]]
+- [[Gaming Journal/MONSTER HUNTER RISE/MONSTER HUNTER RISE Builds|Weapon Builds]]
 
 ## Activity
+### November 18th, 2026
+![[Fan of Ascendancy.jpg|75]]
 ### November 17th, 2026
-![[ArenaFighterCertificate.jpg|75]] ![[SpiritwoodNecklace.jpg|75]] ![[FlakyCanynePie.jpg|75]]
+![[Flaky Canyne Pie.jpg|75]] ![[SpiritwoodNecklace.jpg|75]] ![[ArenaFighterCertificate.jpg|75]] ![[Antique Bookmark.jpg|75]]
 ### November 16th, 2026
 ![[KamuraPinwheel.jpg|75]] ![[ColorfulArmorStand.jpg|75]] ![[SilverEcologist'sAward.jpg|75]] ![[GoldEcologist'sAward.jpg|75]] ![[Thank-mewLetter.jpg|75]] ![[Deft-handRod.jpg|75]] ![[JewelgrassPlanter.jpg|75]] ![[Runner'sSandals.jpg|75]] ![[SurveyCape.jpg|75]] ![[LuxuryArmorStand.jpg|75]] ![[Long-DistanceBinoculars.jpg|75]] 
 ### November 15th, 2026
